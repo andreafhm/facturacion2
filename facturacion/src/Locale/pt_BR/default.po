@@ -1,0 +1,105 @@
+msgid "name"
+msgstr "nome"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "surname"
+msgstr "sobrenome"
+
+msgid "Surname"
+msgstr "Sobrenome"
+
+msgid "Warehouse"
+msgstr "Armazém"
+
+msgid "Warehouses"
+msgstr "Depósitos"
+
+msgid "warehouse"
+msgstr "armazém"
+
+msgid "Client"
+msgstr "Cliente"
+
+msgid "Clients"
+msgstr "Clientes"
+msgid "client"
+msgstr "cliente"
+
+msgid "phone"
+msgstr "telefone"
+
+msgid "Phone"
+msgstr "Telefone"
+
+
+
+msgid "created"
+msgstr "criado"
+
+msgid "Created"
+msgstr "Criado"
+
+msgid "Modified"
+msgstr "Modificado"
+
+msgid "modified"
+msgstr "modificado"
+
+msgid "Actions"
+msgstr "Ações"
+
+msgid "Person"
+msgstr "Pessoa"
+
+msgid "person"
+msgstr "pessoa"
+
+msgid "Persons"
+msgstr "Pessoas"
+
+msgid "persons"
+msgstr "pessoas"
+
+msgid "View"
+msgstr "Visão"
+
+msgid "Edit"
+msgstr "Editar"
+msgid "Delete"
+msgstr "Excluir"
+
+msgid " Sign Up"
+msgstr " Inscrever-se"
+
+msgid " Logout"
+msgstr " Sair"
+
+msgid " Login"
+msgstr " Entrar"
+msgid "Login"
+msgstr "Entrar"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "City"
+msgstr "Cidade"
+
+msgid "Cities"
+
+msgstr "Cidades"
+msgid "city"
+msgstr "cidade"
+msgid "cities"
+msgstr "cidades"
+
+msgid "Voucher Detail"
+msgstr "Detalhe do vale"
+
+msgid "User"
+msgstr "Utilizador"
+
+
+

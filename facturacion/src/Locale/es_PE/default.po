@@ -1,0 +1,120 @@
+msgid "name"
+msgstr "nombre"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "surname"
+msgstr "apellido"
+msgid "Surname"
+msgstr "Apellido"
+
+msgid "Warehouse"
+msgstr "Almacen"
+
+msgid "Warehouses"
+msgstr "Almacenes"
+
+msgid "warehouse"
+msgstr "almacen"
+
+msgid "Client"
+msgstr "Cliente"
+
+msgid "Clients"
+msgstr "Clientes"
+msgid "client"
+msgstr "cliente"
+
+msgid "phone"
+msgstr "telefono"
+
+msgid "Phone"
+msgstr "Telefono"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "status"
+msgstr "estado"
+
+msgid "created"
+msgstr "creado"
+
+msgid "Created"
+msgstr "Creado"
+
+msgid "Modified"
+msgstr "Modificado"
+msgid "modified"
+msgstr "modificado"
+
+msgid "Actions"
+msgstr "Acciones"
+
+msgid "Person"
+msgstr "Persona"
+
+msgid "person"
+msgstr "persona"
+
+msgid "Persons"
+msgstr "Personas"
+
+msgid "Providers"
+msgstr "Proveedores"
+
+msgid "Users"
+msgstr "Usuarios"
+
+msgid "Vouchers"
+msgstr "Comprobantes"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Sellers"
+msgstr "Vendedores"
+
+msgid "persons"
+msgstr "personas"
+
+msgid "View"
+msgstr "Ver"
+
+msgid "Edit"
+msgstr "Editar"
+msgid "Delete"
+msgstr "Borrar"
+
+msgid " Sign Up"
+msgstr " Registrarse"
+
+msgid " Logout"
+msgstr " Salir"
+
+msgid " Login"
+msgstr " Entrar"
+msgid "Login"
+msgstr "Entrar"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "City"
+msgstr "Ciudad"
+msgid "Cities"
+msgstr "Ciudades"
+msgid "city"
+msgstr "ciudad"
+msgid "cities"
+msgstr "ciudades"
+
+msgid "Voucher Detail"
+msgstr "Detalle Comprobante"
+
+msgid "User"
+msgstr "Usuario"
+
+
+
